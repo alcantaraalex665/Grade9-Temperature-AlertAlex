@@ -44,11 +44,12 @@ if (temperature >= 38) {
 ## Test Results
 
 | Temperature | Expected LED | Result |
-|             |              |        |
-| 30°C        | OFF          | check  |
-| 37°C        | OFF          | check  |
-| 38°C        | ON           | check  |
-| 42°C        | ON           | check  |
+|---|---|---|
+| 30°C | OFF | ✅ |
+| 37°C | OFF | ✅ |
+| 38°C | ON | ✅ |
+| 42°C | ON | ✅ |
+
 
 ## How to Run
 
