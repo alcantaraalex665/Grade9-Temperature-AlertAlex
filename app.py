@@ -11,7 +11,7 @@ temperature = st.slider(
 st.metric("Temperature", f"{temperature} °C")
 
 # TASK 3: Change the threshold to 38
-if temperature >= 35:
+if temperature >= 38:
     st.error("WARNING: High Temperature!")
     st.write("Red LED: ON")
 else:
