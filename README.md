@@ -66,4 +66,4 @@ if (temperature >= 38) {
 
 ## Author
 
-[Alex G. Alcantara], Grade 9
+Alex G. Alcantara, Grade 9
